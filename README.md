@@ -21,7 +21,7 @@ Introduction to the dataset:
 
 <p>
 <font size=3>
-The data set contains 101017 rows, the description of each column is given in the table below
+The data set contains 318851 rows, the description of each column is given in the table below
 </font>
 </p>
 
