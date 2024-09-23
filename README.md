@@ -9,4 +9,4 @@ This project is more like an educational project in the field of data science</b
 <img src = "https://img.shields.io/badge/Python-f39f37" />
 
 ### Libraries used in this project:
-<img src = "https://img.shields.io/badge/Numpy-f39f37" /> <img src = "https://img.shields.io/badge/Pandas-f39f37" /> <img src = "https://img.shields.io/badge/Seaborn-f39f37" />
+<img src = "https://img.shields.io/badge/Numpy-f39f37" /> <img src = "https://img.shields.io/badge/Pandas-f39f37" /> <img src = "https://img.shields.io/badge/Seaborn-f39f37" /> <img src = "https://img.shields.io/badge/Matplotlib-f39f37" />
